@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/exec.o.dir/exec.c.o  -o exec.o 

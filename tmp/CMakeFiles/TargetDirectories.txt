@@ -1,0 +1,4 @@
+/home/maksim/shell/tmp/CMakeFiles/rebuild_cache.dir
+/home/maksim/shell/tmp/CMakeFiles/edit_cache.dir
+/home/maksim/shell/tmp/CMakeFiles/main.dir
+/home/maksim/shell/tmp/CMakeFiles/exec.dir
